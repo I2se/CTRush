@@ -1,0 +1,8 @@
+name: CTRush
+author: Sothis_
+version: 1.0.0
+main: fr.lyrania.ctrush.Main
+commands:
+  start:
+    usage: ""
+    description: ""

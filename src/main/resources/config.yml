@@ -1,0 +1,57 @@
+blue:
+    world: void
+    X: 0.0
+    Y: 4.0
+    Z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+red:
+    world: void
+    X: 0.0
+    Y: 4.0
+    Z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+yellow:
+    world: void
+    X: 0.0
+    Y: 4.0
+    Z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+green:
+    world: void
+    X: 0.0
+    Y: 4.0
+    Z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+heart:
+    world: void
+    X: 10.0
+    Y: 4.0
+    Z: 10.0
+    yaw: 0.0
+    pitch: 0.0
+lobby:
+    world: world
+    X: 0.0
+    Y: 80.0
+    Z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+
+heartlife: 1000
+
+mysql:
+  host: ""
+  port: 0
+  user: ""
+  pass: ""
+
+redis:
+  host: ""
+  port: 0
+  user: ""
+  pass: ""
+  nameDB: ""
